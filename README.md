@@ -1,12 +1,6 @@
 ## 博客介绍
 
 <p align="center">
-  <a href="https://www.ttkwsd.top">
-    <img src="https://foruda.gitee.com/avatar/1662735858745624876/7774198_wu_shengdong_1662735858.png" alt="阿冬的个人博客" style="border-radius: 50%;">
-  </a>
-</p>
-
-<p align="center">
    基于Springboot + Vue3 开发的前后端分离博客
 </p>
 
@@ -26,17 +20,9 @@
 
 ## 在线地址
 
-**项目链接：** [www.ttkwsd.top](https://www.ttkwsd.top)
-
-**后台链接：** [admin.ttkwsd.top](https://admin.ttkwsd.top)
-
 **测试账号：** test@qq.com，**密码**：123456
 
-**Github 地址：** [https://github.com/ttkican/Blog](https://github.com/ttkican/Blog)
-
-**Gitee 地址：** [https://gitee.com/wu_shengdong/blog](https://gitee.com/wu_shengdong/blog)
-
-**接口文档：** https://www.ttkwsd.top/api/doc.html
+**Github 地址：** [https://github.com/Knight1357/blog](https://github.com/Knight1357/blog)
 
  **欢迎大家提交pr，一起改进项目** 
 
@@ -110,27 +96,14 @@ ElasticSearch + RabbitMQ + Canal
 ![](https://static.ttkwsd.top/article/14f21792d32ceac730dad62798ac353c.png)
 ![](https://static.ttkwsd.top/article/d4efdf65ea8a393693e317cdebdb6b43.png)
 
-## 后续计划
-
-- [ ] 整合 EasyExcel 导出 Excel
-- [ ] 第三方登录使用 JustAuth
-- [ ] 博客文章导入导出
-- [ ] 移动端文章目录
-- [x] 图片瀑布流布局
-- [ ] B 站追番页
-- [x] B 站图床
-- [x] 聊天室
-
 ## 项目总结
 
 整个项目花费了大量的心血，开发过程中参考了很多优秀的开源项目，在这里感谢大家的开源项目，收获了很多，希望我的项目能给你带来收获。
 
 鸣谢项目：
 
-- [ 风丶宇 ](https://github.com/X1192176811/blog)
 - **[hexo-theme-shoka](https://github.com/amehime/hexo-theme-shoka)**
 - [A Hexo Theme: Butterfly](https://github.com/jerryc127/hexo-theme-butterfly)
 - [RuoYi-Vue](https://gitee.com/y_project/RuoYi-Vue)
 - [vue3-element-admin](https://github.com/youlaitech/vue3-element-admin)
 - [基于 Vue.js 的弹幕交互组件](https://github.com/hellodigua/vue-danmaku)
-- ...
